@@ -1,2 +1,2 @@
 # stage2nzxt
-lolwa
+Subdomain takeover by FawadAzeem Security Tester
